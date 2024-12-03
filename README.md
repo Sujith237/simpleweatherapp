@@ -14,7 +14,7 @@ A simple weather application built with React that displays real-time and foreca
 1. Clone the repository:
 
 ```bash
-https://github.com/nareshbodapatla/simpleweatherapp
+https://github.com/Sujith237/simpleweatherapp
 ```
 
 2. Navigate to the project directory:
@@ -50,7 +50,7 @@ npm start
 - ```https://api.openweathermap.org/data/2.5/```
 
 ## Credits
-- This project is created by Naresh Bodapatla.
+- This project is created by Sujith Reddy.
 - Weather data is provided by ``openweathermap``.
 
 ## License
